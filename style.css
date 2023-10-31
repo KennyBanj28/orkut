@@ -1,0 +1,32 @@
+body{
+    background-color: #c5d2e3;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    display: flex;
+    background-color: white;
+}
+.menu ul{
+    display: flex;gap: 40px;
+    list-style-type: none;
+}
+.edge{
+    margin-left:40px ;
+}
+.search{
+    margin-top: 20px;
+    margin-left:50px ;
+}
+.second{
+    width: 320px;
+    height: 725px;
+    top: 131px;
+    left: 80px;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 50px;
+}
+.avatar{
+    margin-top: 50px;
+    margin-left: 50px;
+}
